@@ -3,7 +3,7 @@
 /***************************************************************************
  MetdataProcessor
                                  A QGIS plugin
- Process metdata to be used in UMEP processor
+ Process metadata to be used in CAFS processor
                               -------------------
         begin                : 2015-06-06
         git sha              : $Format:%H$
