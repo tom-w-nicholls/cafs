@@ -18,5 +18,13 @@ Cumbria Action for Sustainability and other groups use this plugin to promote so
 
 Tested to work as a plugin within QGIS version 3.14 only
 
+Note: a lot of the solar calculations are extracted and refactored from the UMEP plugin written by Fredrik Lindberg.
+
+The original manual process for Ambleside, as created by Alex Boyd, can be described in the following paper available from CAfS:
+“Mapping Solar PV Potential in Ambleside” (joint report between CAfS and Lancaster University, 9th December 2019) available on request
+
 See https://docs.qgis.org/3.4/en/docs/user_manual/plugins/plugins.html for how to install a plugin on this version of QGIS
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.                                   *
+
 
